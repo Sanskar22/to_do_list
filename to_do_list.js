@@ -24,7 +24,7 @@ const itemSchema  = new mongoose.Schema({
     name: "click + to add item in list",
    })
    const item3 = new Item({
-    name: "click - to drop items in list",
+    name: "Check to drop items in list",
    })
 
 
