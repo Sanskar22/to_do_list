@@ -1,6 +1,5 @@
 html {
-  background-color: #E4E9FD;
-   background-image: -webkit-linear-gradient(55deg, rgb(181, 238, 150) 50%, #E4E9FD 50%);
+  background: radial-gradient(white, rgb(165, 168, 243));
   min-height: 1000px;
   font-family: 'helvetica neue';
 }
